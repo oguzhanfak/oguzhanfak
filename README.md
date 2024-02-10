@@ -1,5 +1,3 @@
-[![MasterHead](https://blog.shahednasser.com/static/575f09aa1b1fb35308181d2a3f70cf12/e4875/ferenc-almasi-c8h0n7fSTqs-unsplash-2.webp)
-
 <h1 align="center">Hi 👋, I'm Oguzhan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
