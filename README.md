@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 <ul>
-  <li>Front-End Development and Responsive Web Design skills.</li>
+  <li>Front-End Development and Responsive Web Design skills. 3D character customizer,three.js</li>
   <li>  Develop and maintain React-based web applications ensuring high performance and responsiveness.
 </li>
 <li> Utilize CSS libraries effectively to enhance user interface design and consistency.</li> 
