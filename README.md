@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oguzhan</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Frontend Developer | React Native</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
